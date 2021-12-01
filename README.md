@@ -1,1 +1,3 @@
 # Stataworks
+
+stata dofile
